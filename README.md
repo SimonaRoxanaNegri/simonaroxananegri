@@ -1,7 +1,5 @@
 ### Hi there 👋, My Name is Simona
 #### I am a passionate junior web developer
-![I am a passionate junior web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/)
-
 I am a person with an open mind to the news that surround me. I like to accompany my passion for design with that for technology and its respective programming languages.
 
 Skills: VUE.JS / REACT.JS / JS / HTML / CSS / PHP / LARAVEL / MYSQL
