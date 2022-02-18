@@ -2,7 +2,7 @@
 #### I am a passionate junior web developer
 I am a person with an open mind to the news that surround me. I like to accompany my passion for design with that for technology and its respective programming languages.
 
-Skills: VUE.JS / REACT.JS / JS / HTML / CSS / PHP / LARAVEL / MYSQL / C# / .NET 
+Skills: VUE.JS / REACT.JS / JS / HTML / CSS / PHP / LARAVEL / MYSQL / C# / .NET / MSS - MICROSOFT SQL SERVER
 
 - 🔭 I’m currently working on this page. 
 
